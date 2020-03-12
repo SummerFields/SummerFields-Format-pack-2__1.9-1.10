@@ -1,11 +1,13 @@
-﻿[![SummerFields] (http://summerfields.github.io/official/signature/sign2.png) ] (http://summerfields.github.io/official/)
+﻿[![SummerFields](http://summerfields.info/assets/signature/sign2.png)](http://summerfields.github.io/official/)
+ 
+ The summerfields pack is not frozen.
+Don't hesitate to request changes.
 
 Notes 
 -----
         
 * LithiumSound has created SummerFields. 
-* CuddleWoozle continued the texture pack. 
-* Currently external contributions are helping the package to stay updated.
+* Team SummerFields continued the texture pack.
 
 Thanks
 ------
@@ -17,17 +19,25 @@ Thanks
 * Milktache, for setting up SummerFields on the customizer!
 * Marcinz606, for the lightmap and all the custom colors, sky and all. =D
 * Sixdd, for the ctm.png file.
-* [lipki] (https://github.com/lipki), for making the horse armor, markings and horses(and, initially, converting the texture pack to a resource pack)!
+* [lipki] (https://github.com/lipki) for many things (see below).
 * SilverLimit, for the new quartz block textures!
 * Card, for Feed the Beast mod support.
+* [tobyplowy] (https://github.com/tobyplowy) for many things (see below).
+* [chengzzi89] (https://github.com/chengzzi89) for MCPE and More.
+* [kingoscargames] (https://github.com/kingoscargames) for help.
 
-MOD Support   
+MOD Support
 -----------
 
 If you play with some mod, you should download mod support for summerfields. On the summerfields thread you can download all of them.
 
 History of Recent Updates
--------------------------
+------------------------
+
+05/06/2014 : Release 1.10
+* Added
+  - some stuff 1.10
+  - by lipki and tobyplowy
 
 xx/xx/2014 : Release 1.9
 * Added
